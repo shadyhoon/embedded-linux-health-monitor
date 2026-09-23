@@ -1,0 +1,10 @@
+{
+    "cpu_threshold": 80.0,
+    "ram_threshold": 80.0,
+    "disk_threshold": 80.0,
+    "temp_threshold": 80.0,
+    "critical_service": "ssh",
+    "check_interval": 60,
+    "auto_recovery": true,
+    "recovery_action": "restart_service"
+}

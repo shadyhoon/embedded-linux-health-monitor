@@ -1,0 +1,12 @@
+# Build artifacts
+/build/
+
+# Log files
+*.log
+
+# Executable
+health_monitor
+
+# VS Code
+.vscode/
+*.swp
